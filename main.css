@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+* {
+    
+    margin: 15px 15px 15px 15px;
+}
+
+body {
+    background-image: url(./images/background.jpg);
+}
+
+p {
+    color: rgb(100, 151, 218);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+
+
+    color: white;
+}
+
+img {
+
+    width: 300px;
+    height: 300px;
+}
+
+.section { 
+    color: rgb(90, 70, 70);
+    background-color: rgba(255, 255, 255, 0.8);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}/* CLASS - used more than once  */
+
+#title {
+    color: rgb(90, 70, 70);
+    background-color: rgba(255, 255, 255, 0.8);
+    font-family: 'Lobster', cursive;
+    padding: 10px;
+    text-align: center;
+}/* ID - used once  */
+
+#section_block1 
+.section { 
+    color: rgb(146, 166, 204);
+    background-color: rgba(63, 154, 190, 0.8);
+    
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    
+    background-color: rgba(118, 122, 129, 0.8);
+    color: black;
+    padding: 10px;
+    border-bottom: 5px;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-style: solid;
+    border-color: black;
+}
+
+#section_block2 
+.section { 
+    color: rgb(188, 199, 219);
+    background-color: rgba(255, 255, 255, 0.8);
+    
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    
+    background-color: rgba(255, 255, 255, 0.8);
+    color: black;
+    padding: 10px;
+    border-bottom: 5px;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-style: solid;
+    border-color: black;
+}
+
+#section_block3 
+.section { 
+    color: rgb(146, 166, 204);
+    background-color: rgba(255, 255, 255, 0.8);
+    
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    
+    background-color: rgba(255, 255, 255, 0.8);
+    color: black;
+    padding: 10px;
+    border-bottom: 5px;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-style: solid;
+    border-color: black;
+}
+
+
+section_block4
+.section { 
+    color: rgb(146, 166, 204);
+
+    background-color: rgba(255, 255, 255, 0.8);
+    
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    
+    background-color: rgba(255, 255, 255, 0.8);
+    color: rgb(146, 166, 204);
+    padding: 10px;
+    border-bottom: 5px;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-style: solid;
+    border-color: black;
+}
+
+
+
+
+
