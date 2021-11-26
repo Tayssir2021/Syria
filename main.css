@@ -7,12 +7,12 @@
 }
 
 body {
-background-color: #555;  
+background-color:  rgb(175, 191, 212); 
 /* background-image: url(images/background.jpg); */
 }
 
 p {
-    color: rgb(100, 151, 218);
+    color: rgb(72, 84, 100);
     font-family: Arial, Helvetica, sans-serif;
 }
 
