@@ -1,13 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
 
 * {
-    background-image: url(images/background.jpg);
+    
 
     margin: 15px 15px 15px 15px;
 }
 
-body 
-    
+body {
+background-color: #555;  
+/* background-image: url(images/background.jpg); */
+}
 
 p {
     color: rgb(100, 151, 218);
